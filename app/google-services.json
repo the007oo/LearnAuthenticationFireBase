@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "25913635064",
+    "firebase_url": "https://learnfirebase-718e3.firebaseio.com",
+    "project_id": "learnfirebase-718e3",
+    "storage_bucket": "learnfirebase-718e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25913635064:android:ab9ba90d6ef46a80",
+        "android_client_info": {
+          "package_name": "com.phattarapong.learnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25913635064-4slai8mcgmo4mng8hgoegil4o17nbsre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7sdY6IcrfSRaKofHj-ZDG46T09fCFEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25913635064:android:b83d67b183309a73",
+        "android_client_info": {
+          "package_name": "com.phattarapong.learnauthenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25913635064-2f3ldrfjrev50v7mi5i1v7q9u7fvjks4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phattarapong.learnauthenticationfirebase",
+            "certificate_hash": "2a5410cfef180de1161ef8f94799b7e9c87ff795"
+          }
+        },
+        {
+          "client_id": "25913635064-4slai8mcgmo4mng8hgoegil4o17nbsre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7sdY6IcrfSRaKofHj-ZDG46T09fCFEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25913635064-4slai8mcgmo4mng8hgoegil4o17nbsre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
